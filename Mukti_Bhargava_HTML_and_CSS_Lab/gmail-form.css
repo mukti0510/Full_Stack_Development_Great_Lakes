@@ -1,0 +1,52 @@
+h2 {
+    text-align: center;
+    color: black;
+}
+
+.gmail {
+    width: 350px;
+    height: 300px;
+    position: absolute;
+    text-align: center;
+    vertical-align: middle;
+    top: 15%;
+    left: 35%; 
+    border: 1px solid white;
+    border-radius: 8px;
+    padding: 40px;
+}
+
+input {
+    width: 300px;
+    height: 20px;
+    color: black;
+    padding: 10px;
+    background-color: whitesmoke;
+    margin-bottom: 10px;
+    border: none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+input:focus {
+    background-color: steelblue;
+    opacity: 0.35;
+}
+
+button {
+
+    margin: 20px;
+    width: 100px;
+    height: 30px;
+    color: white;
+    font-size: 18px;
+    background-color: blueviolet;
+    border: none;
+    border-radius: 4px;
+}
+
+#myVideo {
+    position: fixed;
+    width: auto;
+    height: auto;
+}
